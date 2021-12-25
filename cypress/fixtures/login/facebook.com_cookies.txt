@@ -1,14 +1,10 @@
-# Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
-
 .facebook.com	TRUE	/login/device-based/	TRUE	1684438771	dbln	%7B%22100045793443928%22%3A%22ap7Gm1t2%22%7D
 .facebook.com	TRUE	/ryanair	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1621777157436%2C%22v%22%3A1%7D
 .facebook.com	TRUE	/	TRUE	1703354227	sb	2xSkYM6-1XssVWtgfXnlqxf-
 .facebook.com	TRUE	/	TRUE	1684437987	datr	4BSkYBZaX6UDnF4rcg82L5dt
-.facebook.com	TRUE	/	TRUE	1640887014	wd	1536x754
-.facebook.com	TRUE	/	TRUE	1640887030	dpr	1.25
-.facebook.com	TRUE	/	TRUE	1671818225	c_user	100045793443928
-.facebook.com	TRUE	/	TRUE	1671818225	xs	7%3A65unHaQ9gT4LwQ%3A2%3A1640282226%3A-1%3A13828
-.facebook.com	TRUE	/	TRUE	1648058223	fr	0cMWpGyKu9s8Dqbus.AWVQqw7VHvjuX_KpVsdcwXcC4dM.BhnKuG.dR.AAA.0.0.BhxLhy.AWUP0twQdoM
-.facebook.com	TRUE	/	TRUE	1640372229	spin	r.1004895296_b.trunk_t.1640282230_s.1_v.2_
+.facebook.com	TRUE	/	FALSE	1640887014	wd	1536x754
+.facebook.com	TRUE	/	FALSE	1641071557	dpr	1.25
+.facebook.com	TRUE	/	FALSE	1672002756	c_user	100045793443928
+.facebook.com	TRUE	/	TRUE	1640556757	spin	r.1004896497_b.trunk_t.1640466756_s.1_v.2_
+.facebook.com	TRUE	/	TRUE	1672002756	xs	7%3A65unHaQ9gT4LwQ%3A2%3A1640282226%3A-1%3A13828%3A%3AAcXkHutyf3TowrLAFsexk_f0liJZpqK3GW3jPQB3ig
+.facebook.com	TRUE	/	TRUE	1648242754	fr	0vkV7kAqRp1Jyhk7f.AWVvOc4RXk44cvY95MC8j_g5-fY.Bhx4lF.dR.AAA.0.0.Bhx4lF.AWXQigVXczA

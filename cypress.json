@@ -1,1 +1,6 @@
-{}
+{
+  "viewportWidth": 1280,
+  "viewportHeight": 720,
+  "watchForFileChanges": false,
+  "baseUrl": "https://www.facebook.com"
+}
